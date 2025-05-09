@@ -1,7 +1,5 @@
-# Blue Team Lab
-_Phase 1 – Fondation du Lab_  
-Infrastructure Proxmox + Terraform + Ansible + Vault  
-May 9, 2025
+# Phase 1 – Fondation du Blue Team Lab
+Infrastructure Proxmox + IaC
 
 ---
 
