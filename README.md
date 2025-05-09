@@ -145,7 +145,7 @@ Chaque **Gamenet** simule un environnement d’entreprise interne :
 
 ## 8. Repos Git – Structure type
 
-<pre lang="text"> ```text cyberlab-iac/ 
+<pre Blue Team Lab
 ├── packer/ 
 │ ├── windows11.json 
 │ └── debian12.json 
@@ -162,5 +162,5 @@ Chaque **Gamenet** simule un environnement d’entreprise interne :
 ├── gitlab-ci/ 
 │ └── .gitlab-ci.yml 
 └── docs/ 
-└── architecture.md ``` </pre>
+ </pre>
 
